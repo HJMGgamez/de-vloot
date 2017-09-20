@@ -1,15 +1,9 @@
-.top {
-	width: 800px;
-	height: 272px;
-	margin: auto;
-	background-image: url("header.jpg")
-}
 body {
   margin: 0px;
 }
 ul {
     list-style-type: none;
-    margin-top: 130px;
+    margin-top: 180px;
     padding: 0;
     overflow: hidden;
     background-color: rgba(0,0,0,0.0);
