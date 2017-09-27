@@ -41,7 +41,6 @@ a {
 	grid-column:2;
 	grid-row:1;
 	background-image: url("header.jpg");
-	background-size: cover;
 }
 .leeg2 {
 	grid-column:3;
